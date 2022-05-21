@@ -4,7 +4,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/img/programming1.webp" alt="A software engineer is writing code" width="700" /><img src="https://activity-graph.herokuapp.com/graph?username=anishrajpandey&theme=react-dark" alt="anishrajpandey's github activity graph" />
   
 <!--    FOR SNAKE GAME-->
-  <img src="https://github.com/anishrajpandey/anishrajpandey/blob/output/github-contribution-grid-snake.gif" alt="anishrajpandey's github snake maze" />
+   <img src="https://github.com/anishrajpandey/anishrajpandey/blob/output/github-contribution-grid-snake.svg" alt="anishrajpandey's github snake maze" />
  
 </p>
 
