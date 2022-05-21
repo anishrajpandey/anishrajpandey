@@ -50,7 +50,7 @@
 📫 How to reach me: **anishpandey021@gmail.com**
 
 <br />
-<!-- Contact Section -->
+<!-- Contact Se ction -->
 
 
 
