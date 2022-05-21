@@ -9,9 +9,6 @@
 <a href="https://twitter.com/anishrajpandey5" target="_blank">
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/anishrajpandey5?color=blue&logo=Twitter&style=flat-square">
 </a>
-<!-- <a href="https://www.reddit.com/user/royrustdev/" target="_blank">
-<img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/royrustdev?logo=Reddit&style=flat-square">
-</a> -->
 
 </p>
 
@@ -20,32 +17,13 @@
 [![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Software+Engineer;DevOps+Engineer;AWS+Developer+Associate)](https://git.io/typing-svg)
 
 <!-- Skills as a table -->
-<table>
-<tr>
-<td><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/rust.svg" alt="Rust icon" /></td>
-<td><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/aws.svg" alt="AWS icon" /></td>
-<td><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/docker.svg" alt="Docker icon" /></td>
-<td><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/jenkins.svg" alt="jenkins icon" /></td>
-</tr>
-<tr>
-<td><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/kubernetes.svg" alt="kubernetes icon" /></td>
-<td><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/terraform.svg" alt="terraform icon" /></td>
-<td><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/postgresql.svg" alt="postgresql icon" /></td>
-<td><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/nodejs.svg" alt="nodejs icon" /></td>
-</tr>
-<tr>
-<td><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/ts.svg" alt="typescript icon" /></td>
-<td><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/js.svg" alt="javascript icon" /></td>
-<td><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/vuejs.svg" alt="vuejs icon" /></td>
-<td><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/scss.svg" alt="scss icon" /></td>
-</tr>
-</table>
+
 
 <!-- Github Stats, coding streak, Most used languages analytics-->
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=royrustdev&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for MishManners" width="700"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=royrustdev&theme=jolly" width="700"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=royrustdev&show_icons=true&locale=en&layout=compact&theme=jolly" alt="Most Used Languages analytics" width="700"/>
+<img src="https://github-readme-stats.vercel.app/api?username=anishrajpandey&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for MishManners" width="700"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=anishrajpandey&theme=jolly" width="700"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=anishrajpandey&show_icons=true&locale=en&layout=compact&theme=jolly" alt="Most Used Languages analytics" width="700"/>
 </p>
 
 ---
