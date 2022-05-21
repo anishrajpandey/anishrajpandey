@@ -14,7 +14,7 @@
 
 # I'm a
 
-[![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Software+Engineer;DevOps+Engineer;AWS+Developer+Associate)](https://git.io/typing-svg)
+[![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Full+Stack+Web+Developer;UI+Designer;UX+Developer;Freelancer;Tech+Geek)](https://git.io/typing-svg)
 
 <!-- Skills as a table -->
 
