@@ -5,7 +5,7 @@
 
 <!-- Profile Views -->
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=royrustdev&label=Github%20Profile%20Views&color=blueviolet&style=flat-square" alt="royrustdev" />
+<img src="https://komarev.com/ghpvc/?username=anishrajpandey&label=Github%20Profile%20Views&color=blueviolet&style=flat-square" alt="royrustdev" />
 <a href="https://twitter.com/royrustdev" target="_blank">
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/royrustdev?color=blue&logo=Twitter&style=flat-square">
 </a>
