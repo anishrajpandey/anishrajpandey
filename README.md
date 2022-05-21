@@ -6,12 +6,12 @@
 <!-- Profile Views -->
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=anishrajpandey&label=Github%20Profile%20Views&color=blueviolet&style=flat-square" alt="royrustdev" />
-<a href="https://twitter.com/royrustdev" target="_blank">
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/royrustdev?color=blue&logo=Twitter&style=flat-square">
+<a href="https://twitter.com/anishrajpandey5" target="_blank">
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/anishrajpandey5?color=blue&logo=Twitter&style=flat-square">
 </a>
-<a href="https://www.reddit.com/user/royrustdev/" target="_blank">
+<!-- <a href="https://www.reddit.com/user/royrustdev/" target="_blank">
 <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/royrustdev?logo=Reddit&style=flat-square">
-</a>
+</a> -->
 
 </p>
 
@@ -67,22 +67,22 @@
 
 💬 Ask me about **Rust**, **DevOps** and **AWS**
 
-😄 Pronouns: **_He/His_**
 
-📫 How to reach me: **royrustdev@gmail.com**
+
+📫 How to reach me: **anishpandey021@gmail.com**
 
 <br />
 <!-- Contact Section -->
 
 <p align="center">
-<a href="https://www.linkedin.com/in/nrishinghananda-roy-b5ab90230/" target="_blank">
+<a href="https://www.facebook.com/anishrajpandey/" target="_blank">
 <img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/linkedin.svg" alt="my linkedin account" />
 </a>
-<a href="https://twitter.com/royrustdev" target="_blank">
+<a href="https://twitter.com/anishrajpandey5" target="_blank">
 <img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/twitter.svg" alt="my twitter account" />
 </a>
-<a href="https://www.reddit.com/user/royrustdev/" target="_blank">
-<img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/reddit.svg" alt="my reddit account" />
+<a href="https://www.instagram.com/pandeyanishraj" target="_blank">
+<img src="https://www.fundacionmicrofinanzasbbva.org/wp-content/uploads/2017/03/new-instagram-logo-png-transparent.png" alt="my instagram account" />
 </a>
 </p>
 
@@ -90,6 +90,6 @@
 
 ---
 
-Credit: [royrustdev](https://github.com/royrustdev)
+Credit: [anishrajpandey](https://github.com/anishrajpandey)
 
 Last Edited on: 03/05/2022
