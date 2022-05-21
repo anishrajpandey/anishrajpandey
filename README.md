@@ -57,15 +57,15 @@
 <!-- Coding GIF image -->
 <img align="right" width="200" height="200" src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/img/coding.gif" alt="Coding gif image" />
 
-🔭 I’m currently working on **Rust** and **DevOps**
+🔭 I’m interested on **Web Development** and **Machine Learning**
 
-🌱 I’m currently learning **Rust**, **AWS** & **DevOps**
+🌱 I’m currently learning **Next JS**, **MongoDB** & **Django**
 
-👯 I’m looking to _collaborate_ on **Rust** projects
+👯 I’m looking to _collaborate_ on **Web** projects
 
-🤔 I’m looking for help with **Rust** and **AWS**
+🤔 I’m looking for help with **Backend** and **Database**
 
-💬 Ask me about **Rust**, **DevOps** and **AWS**
+💬 Ask me about **Javascript**, **CSS** and **Python**
 
 
 
@@ -74,17 +74,7 @@
 <br />
 <!-- Contact Section -->
 
-<p align="center">
-<a href="https://www.facebook.com/anishrajpandey/" target="_blank">
-<img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/linkedin.svg" alt="my linkedin account" />
-</a>
-<a href="https://twitter.com/anishrajpandey5" target="_blank">
-<img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/twitter.svg" alt="my twitter account" />
-</a>
-<a href="https://www.instagram.com/pandeyanishraj" target="_blank">
-<img src="https://www.fundacionmicrofinanzasbbva.org/wp-content/uploads/2017/03/new-instagram-logo-png-transparent.png" alt="my instagram account" />
-</a>
-</p>
+
 
 <p align="center"><b>Thank You for visiting my profile 🙏</b></p>
 
