@@ -40,13 +40,13 @@
 <!-- Coding GIF image -->
 <img align="right" width="200" height="200" src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/img/coding.gif" alt="Coding gif image" />
 
-🔭 I’m interested on **Web Development** and **Machine Learning**
+🔭 I’m interested on **Web Development** and **Cross platform apps development**
 
 🌱 I’m currently learning **Next JS**, **MongoDB** & **Django**
 
-👯 I’m looking to _collaborate_ on **Web** projects
+👯 I’m looking to _collaborate_ on **future** projects
 
-🤔 I’m looking for help with **Backend** and **Database**
+🤔 I’m looking for help with **Backend** and **React native**
 
 💬 Ask me about **Javascript**, **CSS** and **Python**
 
