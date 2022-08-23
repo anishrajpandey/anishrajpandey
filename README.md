@@ -11,7 +11,7 @@
 <!-- Profile Views -->
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=anishrajpandey&label=Github%20Profile%20Views&color=blueviolet&style=flat-square" alt="royrustdev" />
-<a href="https://twitter.com/anishrajpandey5" target="_blank">
+<a href="https://twitter.com/anishraj_pandey" target="_blank">
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/anishrajpandey5?color=blue&logo=Twitter&style=flat-square">
 </a>
 
