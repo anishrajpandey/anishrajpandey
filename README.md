@@ -1,9 +1,10 @@
-### Anish Raj Pandey
+> Thanks for being here! I’m Anish 
+
 
 
 ### Computer Science Undergrad @ Texas State University 🇺🇸
 
-##$  🚀 Full Stack MERN Developer &nbsp;&nbsp; | &nbsp;&nbsp; 💻 AI & ML Enthusiast &nbsp;&nbsp; | &nbsp;&nbsp; 🎥 Content Creator
+### 🚀 Full Stack MERN Developer &nbsp;&nbsp; | &nbsp;&nbsp; 💻 AI & ML Enthusiast &nbsp;&nbsp; | &nbsp;&nbsp; 🎥 Content Creator
 
 <hr style="width: 60%; border: 1.5px solid #1976D2; margin: 30px auto;" />
 
@@ -70,3 +71,4 @@ When I'm not coding or grinding, you’ll find me:
 <p align="center" style="margin-top: 40px;">
   <b>Thanks for stopping by 🙏</b>
 </p>
+ > let’s connect, create, and level up together. 💡
