@@ -1,23 +1,17 @@
-<p align="center" style="font-size: 48px; font-weight: 900; color: #0D47A1; text-transform: uppercase; letter-spacing: 6px; margin-bottom: 20px; 
-  background: linear-gradient(90deg, #42a5f5, #1976d2); 
-  -webkit-background-clip: text; 
-  -webkit-text-fill-color: transparent; 
-  text-shadow: 2px 2px 8px rgba(25, 118, 210, 0.7); 
-  padding: 10px 20px; 
-  border-radius: 12px;
-  display: inline-block;">
-  Anish Raj Pandey
+<p align="center">
+  <strong style="font-size: 44px; color: #0D47A1; text-transform: uppercase; letter-spacing: 5px;">
+    Anish Raj Pandey
+  </strong>
 </p>
 
-<p align="center" style="font-size: 28px; font-weight: 800; color: #1976D2; margin-bottom: 30px; 
-  background: #e3f2fd; 
-  padding: 12px 25px; 
-  border-radius: 15px; 
-  box-shadow: 0 4px 15px rgba(25, 118, 210, 0.3); 
-  display: inline-block; line-height: 1.5;">
+<p align="center" style="font-size: 22px; color: #1976D2; font-weight: 700; margin-top: -10px;">
   Nepali 🇳🇵 | CS Student @ Texas State 🇺🇸<br/>
   Full Stack MERN Dev 🚀 | AI & DSA Enthusiast 💻
 </p>
+
+---
+
+
 
 <hr style="border: none; height: 2px; background: #1976D2; width: 60%; margin: 30px auto 40px auto;" />
 
