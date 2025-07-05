@@ -1,15 +1,21 @@
 <!-- Typing SVG Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&speed=50&lines=Hey!+I'm+Anish+Raj+Pandey;Computer+Science+Student;From+Nepal;Studying+in+Texas+USA;Full+Stack+MERN+Developer;Learning+AI+and+DSA;Content+Creator;Hustler;Doer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&speed=50&pause=2000&repeat=true&lines=Hey!+I'm+Anish+Raj+Pandey+👋;Computer+Science+Student+📚;From+Nepal+🇳🇵" />
 </p>
 
+<p align="center" style="margin-top:-10px;">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&speed=50&pause=2000&repeat=true&lines=Studying+in+Texas+USA+🇺🇸;Full+Stack+MERN+Developer+🚀;Learning+AI+%26+DSA+Daily+💻" />
+</p>
+
+<p align="center" style="margin-top:-10px;">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&speed=50&pause=2000&repeat=true&lines=Content+Creator+🎥;Hustler+💪;Doer+🔥" />
+</p>
 
 ---
 
 <!-- Hero Image -->
 <p align="center">
- ![banner_github](https://github.com/user-attachments/assets/f9c3c0ac-0451-4c00-88be-322b5a1b3d5e)
-
+  <img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/img/programming1.webp" width="700" alt="coding banner" />
 </p>
 
 ---
