@@ -1,15 +1,19 @@
 <p align="center">
-  <strong style="font-size: 44px; color: #0D47A1; text-transform: uppercase; letter-spacing: 5px;">
-    Anish Raj Pandey
+  <strong style="font-size: 56px; color: #0D47A1; text-transform: uppercase; letter-spacing: 6px;">
+   Hi There! It's Anish!!
   </strong>
 </p>
 
-<p align="center" style="font-size: 22px; color: #1976D2; font-weight: 700; margin-top: -10px;">
-  Nepali 🇳🇵 | CS Student @ Texas State 🇺🇸<br/>
-  Full Stack MERN Dev 🚀 | AI & DSA Enthusiast 💻
+<p align="center" style="font-size: 28px; color: #1565C0; font-weight: 800; margin-top: -15px; letter-spacing: 1.5px;">
+ | Computer Science Undergrad @ Texas State University 🇺🇸
+</p>
+
+<p align="center" style="font-size: 26px; color: #1976D2; font-weight: 700; margin-top: 5px;">
+  Full Stack MERN Developer 🚀 | AI & ML Enthusiast 💻
 </p>
 
 ---
+
 
 
 
@@ -32,7 +36,6 @@
 - 🧠 Learning **AI**, **DSA (in C++)**, and **system design**
 - 💼 Previously worked as a **freelance MERN developer** for clients in 🇳🇵 🇮🇳 🇨🇦 🇵🇪
 - 🎥 Creating content on **YouTube, Instagram, and TikTok** to document my CS journey as an international student
-- 🔥 Living in **Attack Mode**: focus, hustle, no excuses
 - 🌐 Believer in **learning in public**, growing with community, and building from scratch
 
 ---
