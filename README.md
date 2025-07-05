@@ -1,13 +1,15 @@
 <!-- Typing SVG Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&lines=Hey!+I'm+Anish+Raj+Pandey;Nepali+CS+Student+in+Texas+🇳🇵➡️🇺🇸;Full+Stack+MERN+Dev+🚀;Learning+AI+%26+DSA+Daily+💻;Content+Creator+%7C+Hustler+%7C+Doer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&speed=50&lines=Hey!+I'm+Anish+Raj+Pandey;Computer+Science+Student;From+Nepal;Studying+in+Texas+USA;Full+Stack+MERN+Developer;Learning+AI+and+DSA;Content+Creator;Hustler;Doer" />
 </p>
+
 
 ---
 
 <!-- Hero Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/img/programming1.webp" width="700" alt="coding" />
+ ![banner_github](https://github.com/user-attachments/assets/f9c3c0ac-0451-4c00-88be-322b5a1b3d5e)
+
 </p>
 
 ---
