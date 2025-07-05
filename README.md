@@ -1,20 +1,22 @@
-<p align="center" style="font-size: 25px; color: #36BCF7; font-weight: bold; margin-bottom: 5px;">
-  Hey! I'm Anish<br/>
-  Computer Science Student 📚<br/>
-
+<p align="center" style="font-size: 38px; color: #1E90FF; font-weight: 900; margin-bottom: 10px; text-shadow: 2px 2px 5px rgba(0,0,0,0.3); letter-spacing: 2px;">
+  Hey! I'm Anish
 </p>
 
-<p align="center" style="font-size: 25px; color: #36BCF7; font-weight: bold; margin-bottom: 5px;">
+<p align="center" style="font-size: 28px; color: #1E90FF; font-weight: 700; margin-bottom: 10px; text-shadow: 1px 1px 3px rgba(0,0,0,0.2); letter-spacing: 1px;">
+  Computer Science Student 📚
+</p>
+
+<p align="center" style="font-size: 26px; color: #1E90FF; font-weight: 600; margin-bottom: 30px; text-shadow: 1px 1px 3px rgba(0,0,0,0.15);">
   Studying BS in Computer Science, Texas, USA 🇺🇸<br/>
   Full Stack MERN Developer 🚀<br/>
   Learning AI & DSA 💻
 </p>
 
-
 <!-- Hero Image -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f9c3c0ac-0451-4c00-88be-322b5a1b3d5e" alt="banner image" width="700" />
+  <img src="https://github.com/user-attachments/assets/f9c3c0ac-0451-4c00-88be-322b5a1b3d5e" alt="banner image" style="width: 100%; max-width: 1200px; height: auto;" />
 </p>
+
 
 
 ## 👋 About Me
