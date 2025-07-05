@@ -1,14 +1,9 @@
-##<p align="center" style="font-size: `88px; font-weight: 900; color: #0D47A1; text-transform: uppercase; letter-spacing: 8px; margin-bottom: 0; text-shadow: 3px 3px 8px rgba(0,0,0,0.15);">
-  Anish Raj Pandey
-</p>
+## Anish Raj Pandey
 
-##<p align="center" style="font-size: 52px; font-weight: 700; color: #1565C0; margin-top: 5px; margin-bottom: 15px; letter-spacing: 2px; font-style: italic; text-shadow: 2px 2px 6px rgba(0,0,0,0.1);">
-  Computer Science Undergrad @ Texas State University 🇺🇸
-</p>
 
-##<p align="center" style="font-size: 40px; font-weight: 600; color: #1976D2; margin-top: 0; letter-spacing: 1.5px;">
-  🚀 Full Stack MERN Developer &nbsp;&nbsp; | &nbsp;&nbsp; 💻 AI & ML Enthusiast &nbsp;&nbsp; | &nbsp;&nbsp; 🎥 Content Creator
-</p>
+## Computer Science Undergrad @ Texas State University 🇺🇸
+
+##  🚀 Full Stack MERN Developer &nbsp;&nbsp; | &nbsp;&nbsp; 💻 AI & ML Enthusiast &nbsp;&nbsp; | &nbsp;&nbsp; 🎥 Content Creator
 
 <hr style="width: 60%; border: 1.5px solid #1976D2; margin: 30px auto;" />
 
