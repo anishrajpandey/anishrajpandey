@@ -1,18 +1,9 @@
-<p align="center">
-  <strong style="font-size: 56px; color: #0D47A1; text-transform: uppercase; letter-spacing: 6px;">
-   Hi There! It's Anish!!
-  </strong>
-</p>
+# Anish Raj Pandey
 
-<p align="center" style="font-size: 28px; color: #1565C0; font-weight: 800; margin-top: -15px; letter-spacing: 1.5px;">
- | Computer Science Undergrad @ Texas State University 🇺🇸
-</p>
+## CS Undergrad @ Texas State University 🇺🇸
 
-<p align="center" style="font-size: 26px; color: #1976D2; font-weight: 700; margin-top: 5px;">
-  Full Stack MERN Developer 🚀 | AI & ML Enthusiast 💻
-</p>
+### Full Stack MERN Dev 🚀 | AI & ML Enthusiast 💻
 
----
 
 
 
