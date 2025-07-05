@@ -36,10 +36,6 @@
 - **Learning:** TensorFlow, OpenCV, AI, DSA (C++), System Design
 
 ---
-<p align="center">
-  <img src="https://raw.githubusercontent.com/anishrajpandey/anishrajpandey/master/graphs/anish-snake.svg" alt="Anish's GitHub Contribution Snake" />
-</p>
-
 
 ## 📈 GitHub Stats
 
