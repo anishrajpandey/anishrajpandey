@@ -1,16 +1,22 @@
-<p align="center" style="font-size: 38px; color: #1E90FF; font-weight: 900; margin-bottom: 10px; text-shadow: 2px 2px 5px rgba(0,0,0,0.3); letter-spacing: 2px;">
-  Hey! I'm Anish
+<p align="center" style="font-size: 40px; font-weight: 900; color: #0D47A1; text-transform: uppercase; letter-spacing: 4px; margin-bottom: 10px;">
+  Anish Raj Pandey
 </p>
 
-<p align="center" style="font-size: 28px; color: #1E90FF; font-weight: 700; margin-bottom: 10px; text-shadow: 1px 1px 3px rgba(0,0,0,0.2); letter-spacing: 1px;">
-  Computer Science Student 📚
+<p align="center" style="font-size: 24px; font-weight: 700; color: #1976D2; margin-bottom: 20px;">
+  Nepali 🇳🇵 | CS Student @ Texas State 🇺🇸<br/>
+  Full Stack MERN Dev 🚀 | AI & DSA Enthusiast 💻
 </p>
 
-<p align="center" style="font-size: 26px; color: #1E90FF; font-weight: 600; margin-bottom: 30px; text-shadow: 1px 1px 3px rgba(0,0,0,0.15);">
-  Studying BS in Computer Science, Texas, USA 🇺🇸<br/>
-  Full Stack MERN Developer 🚀<br/>
-  Learning AI & DSA 💻
+---
+
+<p align="center" style="font-size: 16px; font-style: italic; color: #42A5F5; max-width: 600px; margin: 0 auto;">
+  <b>Building real-world solutions.</b>  
+  <br/>
+  <b>Learning daily.</b>  
+  <br/>
+  <b>Hustling relentlessly.</b>
 </p>
+
 
 <!-- Hero Image -->
 <p align="center">
