@@ -70,7 +70,5 @@ When I'm not coding or grinding, you’ll find me:
 > *“Consistency beats talent when talent doesn’t show up.”*  
 
 
-<p align="center" style="margin-top: 40px;">
-  <b>Thanks for stopping by 🙏</b>
-</p>
+
  > let’s connect, create, and level up together. 💡
