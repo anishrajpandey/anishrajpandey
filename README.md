@@ -1,68 +1,85 @@
-![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+I'm+Anish+Raj+Pandey;Welcome+to+my+Github+profile;)
-
-<!-- Hero Section -->
-<p align="center"><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/img/programming1.webp" alt="A software engineer is writing code" width="700" /><img src="https://activity-graph.herokuapp.com/graph?username=anishrajpandey&theme=react-dark" alt="anishrajpandey's github activity graph" />
-  
-<!--    FOR SNAKE GAME-->
-   <img src="https://github.com/anishrajpandey/anishrajpandey/blob/output/github-contribution-grid-snake.svg" alt="anishrajpandey's github snake maze" />
- 
-</p>
-<!-- Profile Views -->
+<!-- Typing SVG Header -->
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=anishrajpandey&label=Github%20Profile%20Views&color=blueviolet&style=flat-square" alt="royrustdev" />
-<a href="https://twitter.com/anishraj_pandey" target="_blank">
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/anishrajpandey?color=blue&logo=Twitter&style=flat-square">
-</a>
-
-</p>
-<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
-
-
-# I'm a
-
-[![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Full+Stack+Web+Developer;UI+Designer;UX+Developer;Freelancer;Tech+Geek)](https://git.io/typing-svg)
-
-<!-- Skills as a table -->
-
-<!-- Github Stats, coding streak, Most used languages analytics-->
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=anishrajpandey&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for MishManners" width="700"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=anishrajpandey&theme=jolly" width="700"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=anishrajpandey&show_icons=true&locale=en&layout=compact&theme=jolly" alt="Most Used Languages analytics" width="700"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&lines=Hey!+I'm+Anish+Raj+Pandey;Nepali+CS+Student+in+Texas+🇳🇵➡️🇺🇸;Full+Stack+MERN+Dev+🚀;Learning+AI+%26+DSA+Daily+💻;Content+Creator+%7C+Hustler+%7C+Doer" />
 </p>
 
 ---
 
-<!-- About Me Section is this -->
-
-## About Me
-
-<!-- Coding GIF image -->
-<img align="right" width="200" height="200" src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/img/coding.gif" alt="Coding gif image" />
-
-🔭 I’m interested on **Web Development** and **Cross platform apps development**
-
-🌱 I’m currently learning **Next JS**, **MongoDB** & **Django**
-
-👯 I’m looking to _collaborate_ on **future** projects
-
-🤔 I’m looking for help with **Backend** and **React native**
-
-💬 Ask me about **Javascript**, **CSS** and **Python**
-
-
-
-📫 How to reach me: **anishpandey021@gmail.com**
-
-<br />
-<!-- Contact Se ction -->
-
-
-
-<p align="center"><b>Thank You for visiting my profile 🙏</b></p>
+<!-- Hero Image -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/img/programming1.webp" width="700" alt="coding" />
+</p>
 
 ---
 
-Credit: [anishrajpandey](https://github.com/anishrajpandey)
+## 👋 About Me
 
-Last Edited on: 24/05/2022
+<img align="right" src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/img/coding.gif" width="200"/>
+
+- 🇳🇵 Born and raised in Nepal, now a CS student at **Texas State University**
+- 💻 Passionate about building products that solve real-world problems
+- 🧠 Learning **AI**, **DSA (in C++)**, and **system design**
+- 💼 Past experience as a **freelance MERN developer** for clients in 🇳🇵 🇮🇳 🇨🇦 🇵🇪
+- 🎥 Creating content on **YouTube, Instagram, and TikTok** to share the CS journey as an international student
+- 🌐 Strong believer in learning in public and building from scratch
+
+---
+
+## 📈 Current Focus
+
+| 🎯 Goal                          | Progress     |
+|----------------------------------|--------------|
+| Master DSA with Adam Drozdek 📘 | 🟦 Started    |
+| Build 3 AI projects 🤖           | ⬜ Coming Up  |
+| Grow YouTube & IG Reels 📹       | 🟨 Planning   |
+| Reach $5K/month 💸               | 🟧 Hustling   |
+| Apply to internships ✉️         | ⬜ Soon       |
+| Study for CLEP exams 📚          | 🟦 Ongoing    |
+| Daily workouts 💪                | ✅ Discipline |
+
+---
+
+## ⚡ Tech Stack
+
+- **Languages:** JavaScript, C++, Python
+- **Web Dev:** React, Node.js, Express, MongoDB
+- **Learning:** TensorFlow, OpenCV, C++ STL, DSA
+- **Tools:** Git, VS Code, Postman, Figma, Notion
+
+---
+
+## 🔥 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anishrajpandey&show_icons=true&theme=tokyonight&count_private=true&hide=issues&layout=compact" width="700"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=anishrajpandey&theme=tokyonight" width="700"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishrajpandey&layout=compact&theme=tokyonight" width="700"/>
+</p>
+
+---
+
+## 🎮 Contributions
+
+<p align="center">
+  <img src="https://github.com/anishrajpandey/anishrajpandey/blob/output/github-contribution-grid-snake.svg" alt="Snake animation of contributions" />
+</p>
+
+---
+
+## 🌍 Let's Connect
+
+- 📫 Email: **anishpandey021@gmail.com**
+- 🐦 Twitter: [@anishraj_pandey](https://twitter.com/anishraj_pandey)
+- 📸 Instagram: [@anishrajpandey](https://instagram.com/anishrajpandey)
+- 🎥 YouTube: [Coming soon…]
+
+---
+
+> *“Consistency beats talent when talent doesn’t show up.”*  
+> *“Grind now. Shine later.”*
+
+<p align="center">
+  <b>Thanks for stopping by 🙏</b>
+</p>
+
+---
