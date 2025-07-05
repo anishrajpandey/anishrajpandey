@@ -17,38 +17,27 @@
 <img align="right" src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/img/coding.gif" width="200"/>
 
 - 🇳🇵 Born and raised in Nepal, now a CS student at **Texas State University**
-- 💻 Passionate about building products that solve real-world problems
+- 💻 Passionate about building meaningful digital products
 - 🧠 Learning **AI**, **DSA (in C++)**, and **system design**
-- 💼 Past experience as a **freelance MERN developer** for clients in 🇳🇵 🇮🇳 🇨🇦 🇵🇪
-- 🎥 Creating content on **YouTube, Instagram, and TikTok** to share the CS journey as an international student
-- 🌐 Strong believer in learning in public and building from scratch
+- 💼 Previously worked as a **freelance MERN developer** for clients in 🇳🇵 🇮🇳 🇨🇦 🇵🇪
+- 🎥 Creating content on **YouTube, Instagram, and TikTok** to document my CS journey as an international student
+- 🔥 Living in **Attack Mode**: focus, hustle, no excuses
+- 🌐 Believer in **learning in public**, growing with community, and building from scratch
 
 ---
 
-## 📈 Current Focus
-
-| 🎯 Goal                          | Progress     |
-|----------------------------------|--------------|
-| Master DSA with Adam Drozdek 📘 | 🟦 Started    |
-| Build 3 AI projects 🤖           | ⬜ Coming Up  |
-| Grow YouTube & IG Reels 📹       | 🟨 Planning   |
-| Reach $5K/month 💸               | 🟧 Hustling   |
-| Apply to internships ✉️         | ⬜ Soon       |
-| Study for CLEP exams 📚          | 🟦 Ongoing    |
-| Daily workouts 💪                | ✅ Discipline |
-
----
-
-## ⚡ Tech Stack
+## ⚙️ Tech Stack
 
 - **Languages:** JavaScript, C++, Python
-- **Web Dev:** React, Node.js, Express, MongoDB
-- **Learning:** TensorFlow, OpenCV, C++ STL, DSA
-- **Tools:** Git, VS Code, Postman, Figma, Notion
+- **Frontend:** React.js, TailwindCSS, Next.js
+- **Backend:** Node.js, Express.js, SQLite, MongoDB
+- **Tools:** Git, VS Code, Postman, Notion, Figma
+- **Desktop Apps:** Electron.js
+- **Learning:** TensorFlow, OpenCV, AI, DSA (C++), System Design
 
 ---
 
-## 🔥 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anishrajpandey&show_icons=true&theme=tokyonight&count_private=true&hide=issues&layout=compact" width="700"/>
@@ -58,28 +47,19 @@
 
 ---
 
-## 🎮 Contributions
-
-<p align="center">
-  <img src="https://github.com/anishrajpandey/anishrajpandey/blob/output/github-contribution-grid-snake.svg" alt="Snake animation of contributions" />
-</p>
-
----
-
 ## 🌍 Let's Connect
 
 - 📫 Email: **anishpandey021@gmail.com**
 - 🐦 Twitter: [@anishraj_pandey](https://twitter.com/anishraj_pandey)
 - 📸 Instagram: [@anishrajpandey](https://instagram.com/anishrajpandey)
-- 🎥 YouTube: [Coming soon…]
+- 🎥 YouTube: **Coming Soon... (follow the grind)**
 
 ---
 
 > *“Consistency beats talent when talent doesn’t show up.”*  
-> *“Grind now. Shine later.”*
+> *“Grind now. Shine later.”*  
+> *"Nobody is coming to save you. Get up and get it done."*
 
 <p align="center">
   <b>Thanks for stopping by 🙏</b>
 </p>
-
----
