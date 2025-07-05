@@ -1,9 +1,9 @@
-## Anish Raj Pandey
+### Anish Raj Pandey
 
 
-## Computer Science Undergrad @ Texas State University 🇺🇸
+### Computer Science Undergrad @ Texas State University 🇺🇸
 
-##  🚀 Full Stack MERN Developer &nbsp;&nbsp; | &nbsp;&nbsp; 💻 AI & ML Enthusiast &nbsp;&nbsp; | &nbsp;&nbsp; 🎥 Content Creator
+##$  🚀 Full Stack MERN Developer &nbsp;&nbsp; | &nbsp;&nbsp; 💻 AI & ML Enthusiast &nbsp;&nbsp; | &nbsp;&nbsp; 🎥 Content Creator
 
 <hr style="width: 60%; border: 1.5px solid #1976D2; margin: 30px auto;" />
 
