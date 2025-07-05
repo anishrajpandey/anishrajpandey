@@ -1,28 +1,23 @@
-<!-- Typing SVG Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&speed=50&pause=2000&repeat=true&lines=Hey!+I'm+Anish+Raj+Pandey+👋;Computer+Science+Student+📚;From+Nepal+🇳🇵" />
+<p align="center" style="font-size: 25px; color: #36BCF7; font-weight: bold; margin-bottom: 5px;">
+  Hey! I'm Anish<br/>
+  Computer Science Student 📚<br/>
+
 </p>
 
-<p align="center" style="margin-top:-10px;">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&speed=50&pause=2000&repeat=true&lines=Studying+in+Texas+USA+🇺🇸;Full+Stack+MERN+Developer+🚀;Learning+AI+%26+DSA+Daily+💻" />
+<p align="center" style="font-size: 25px; color: #36BCF7; font-weight: bold; margin-bottom: 5px;">
+  Studying BS in Computer Science, Texas, USA 🇺🇸<br/>
+  Full Stack MERN Developer 🚀<br/>
+  Learning AI & DSA 💻
 </p>
 
-<p align="center" style="margin-top:-10px;">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&speed=50&pause=2000&repeat=true&lines=Content+Creator+🎥;Hustler+💪;Doer+🔥" />
-</p>
-
----
 
 <!-- Hero Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/img/programming1.webp" width="700" alt="coding banner" />
+  <img src="https://github.com/user-attachments/assets/f9c3c0ac-0451-4c00-88be-322b5a1b3d5e" alt="banner image" width="700" />
 </p>
 
----
 
 ## 👋 About Me
-
-<img align="right" src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/img/coding.gif" width="200"/>
 
 - 🇳🇵 Born and raised in Nepal, now a CS student at **Texas State University**
 - 💻 Passionate about building meaningful digital products
