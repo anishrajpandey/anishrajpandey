@@ -1,6 +1,5 @@
- Thanks for being here! 
  
- ### I’m Anish 
+ ### Hi! I’m Anish 👋
 
 
 
